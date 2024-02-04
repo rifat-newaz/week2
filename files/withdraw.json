@@ -1,0 +1,16 @@
+[
+    {
+        "date": "2024-01-28",
+        "refID": "INV-2024-0001",
+        "amount": 111,
+        "userEmail": "rifat@gmail.com",
+        "details": "t1"
+    },
+    {
+        "date": "2024-01-28",
+        "refID": "INV-2024-0002",
+        "amount": 222,
+        "userEmail": "rifat@gmail.com",
+        "details": "t2"
+    }
+]

@@ -1,0 +1,5 @@
+mamun | mamun@ez.com | 123 | admin
+Jamal | jamal@gmail.com | 123 | user
+Rifat Newaz | rifat@gmail.com | 123 | user
+pavel | pavel@gmail.com | 123 | user
+admin1 | a@a.a | 1 | admin
